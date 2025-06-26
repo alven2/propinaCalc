@@ -16,8 +16,7 @@ de multiplicar porcentajes,
 constante de resultado, osea solo eso,
 luego le asignamos un valor
 
-luego se le asignaejecuta el mismo
-constante declarado,
+luego se le asignamos al constante la suma entre el constante monto y el monto modificado de multiplicar,
 
 luego se le muestra el resultado
 en texto (DOM)
