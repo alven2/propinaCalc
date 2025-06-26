@@ -5,10 +5,14 @@ para simpkificar en el eventlistener ponemos una funcion alli mismo
 ya dentro de la funcion creamos 
 5 constantes: 
 entrada propina, 
+
 entrada monto, 
+
 texto mostrable, 
+
 constante donde se guarda el proceso
 de multiplicar porcentajes,
+
 constante donde guarda el resultado
 entre el monto y el constante de multiplicar (moded xd),
 
