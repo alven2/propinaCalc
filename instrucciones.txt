@@ -13,10 +13,10 @@ texto mostrable,
 constante donde se guarda el proceso
 de multiplicar porcentajes,
 
-constante donde guarda el resultado
-entre el monto y el constante de multiplicar (moded xd),
+constante de resultado, osea solo eso,
+luego le asignamos un valor
 
-luego se le ejecuta el mismo
+luego se le asignaejecuta el mismo
 constante declarado,
 
 luego se le muestra el resultado
